@@ -1,0 +1,2 @@
+# digitera-product-detail
+
